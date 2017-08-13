@@ -1,0 +1,470 @@
+source,target,type
+Narva,Tallinn,Undirected
+Narva,Udria,Undirected
+Narva,Riga,Undirected
+Narva,Cesis,Undirected
+Narva,Daugavpils,Undirected
+Narva,Helsinki,Undirected
+Narva,Karelian Isthmus,Undirected
+Tallinn,Udria,Undirected
+Tallinn,Riga,Undirected
+Tallinn,Cesis,Undirected
+Tallinn,Daugavpils,Undirected
+Tallinn,Helsinki,Undirected
+Tallinn,Karelian Isthmus,Undirected
+Udria,Riga,Undirected
+Udria,Cesis,Undirected
+Udria,Daugavpils,Undirected
+Udria,Helsinki,Undirected
+Udria,Karelian Isthmus,Undirected
+Vilnius,Riga,Undirected
+Vilnius,Cesis,Undirected
+Vilnius,Daugavpils,Undirected
+Vilnius,Vilnius,Undirected
+Riga,Cesis,Undirected
+Riga,Daugavpils,Undirected
+Riga,Vilnius,Undirected
+Riga,Helsinki,Undirected
+Cesis,Daugavpils,Undirected
+Cesis,Vilnius,Undirected
+Cesis,Helsinki,Undirected
+Cesis,Karelian Isthmus,Undirected
+Daugavpils,Vilnius,Undirected
+Daugavpils,Helsinki,Undirected
+Tisza River,Budapest,Undirected
+Tisza River,Sarajevo,Undirected
+Tisza River,Bratunac,Undirected
+Tisza River,Srebrenica,Undirected
+Tisza River,Drenica,Undirected
+Tisza River,Belgrade,Undirected
+Ankara,Cilicia (ancient),Undirected
+Cilicia (ancient),eastern and southern Sea of Galilee shores,Undirected
+Cilicia (ancient),Golan Heights,Undirected
+Cilicia (ancient),Golan Heights,Undirected
+Cilicia (ancient),Kyrenia (Girne),Undirected
+Cilicia (ancient),Famagusta,Undirected
+Cilicia (ancient),Lefka,Undirected
+Cilicia (ancient),Beirut,Undirected
+Shanghai,Shanghai,Undirected
+Shantou,Quemoy Island,Undirected
+Shantou,Jinmen,Undirected
+Shantou,Mazu,Undirected
+Asir,Najrn,Undirected
+Asir,Jzn,Undirected
+Najrn,Jzn,Undirected
+Border of Ethiopia and Italian Somaliland,Ogaden,Undirected
+Border of Ethiopia and Italian Somaliland,Gode,Undirected
+Nomonhan,river Khalkhin Gol,Undirected
+Nomonhan,Tamsagbulag,Undirected
+river Khalkhin Gol,Tamsagbulag,Undirected
+Lake Khasan,Wonsan,Undirected
+Lake Khasan,Riwon,Undirected
+Helsinki,Karelian Isthmus,Undirected
+Vientiane,Sisophon,Undirected
+Vientiane,Dien Bien Phu,Undirected
+Vientiane,Hanoi,Undirected
+Vientiane,Xieng Khoang,Undirected
+Vientiane,Bolaven Plateau,Undirected
+Sisophon,ng Tháp Province,Undirected
+Sisophon,Tay Ninh Province,Undirected
+Sisophon,Bolaven Plateau,Undirected
+Sisophon,northeastern Cambodia,Undirected
+Sisophon,easten Cambodia,Undirected
+Sisophon,Phnom Penh,Undirected
+Kashmir,Kongka Pass,Undirected
+Kashmir,Ladakh,Undirected
+Kashmir,Kashmir,Undirected
+Kashmir,Sialkot,Undirected
+Kashmir,Kargil,Undirected
+southern and eastern Palestine,Jerusalem,Undirected
+southern and eastern Palestine,Gaza,Undirected
+southern and eastern Palestine,Rafah,Undirected
+southern and eastern Palestine,Arish,Undirected
+southern and eastern Palestine,Tel Aviv,Undirected
+southern and eastern Palestine,the south and central parts of the coastal plain,Undirected
+southern and eastern Palestine,eastern and southern Sea of Galilee shores,Undirected
+southern and eastern Palestine,Golan Heights,Undirected
+southern and eastern Palestine,Jerusalem,Undirected
+southern and eastern Palestine,the south and central parts of the coastal plain,Undirected
+southern and eastern Palestine,East Jerusalem,Undirected
+southern and eastern Palestine,West Jerusalem,Undirected
+southern and eastern Palestine,Golan Heights,Undirected
+southern and eastern Palestine,Suez Canal,Undirected
+southern and eastern Palestine,Port Said,Undirected
+southern and eastern Palestine,Suez,Undirected
+southern and eastern Palestine,Kyrenia (Girne),Undirected
+southern and eastern Palestine,Famagusta,Undirected
+southern and eastern Palestine,Lefka,Undirected
+southern and eastern Palestine,Beirut,Undirected
+Jerusalem,Gaza,Undirected
+Jerusalem,Rafah,Undirected
+Jerusalem,Arish,Undirected
+Jerusalem,Tel Aviv,Undirected
+Jerusalem,the south and central parts of the coastal plain,Undirected
+Jerusalem,eastern and southern Sea of Galilee shores,Undirected
+Jerusalem,Golan Heights,Undirected
+Jerusalem,Jerusalem,Undirected
+Jerusalem,the south and central parts of the coastal plain,Undirected
+Jerusalem,East Jerusalem,Undirected
+Jerusalem,West Jerusalem,Undirected
+Jerusalem,Golan Heights,Undirected
+Jerusalem,Suez Canal,Undirected
+Jerusalem,Port Said,Undirected
+Jerusalem,Suez,Undirected
+Jerusalem,Kyrenia (Girne),Undirected
+Jerusalem,Famagusta,Undirected
+Jerusalem,Lefka,Undirected
+Jerusalem,Beirut,Undirected
+Gaza,Rafah,Undirected
+Gaza,Arish,Undirected
+Gaza,Tel Aviv,Undirected
+Gaza,the south and central parts of the coastal plain,Undirected
+Gaza,eastern and southern Sea of Galilee shores,Undirected
+Gaza,Golan Heights,Undirected
+Gaza,Jerusalem,Undirected
+Gaza,the south and central parts of the coastal plain,Undirected
+Gaza,East Jerusalem,Undirected
+Gaza,West Jerusalem,Undirected
+Gaza,Golan Heights,Undirected
+Gaza,Suez Canal,Undirected
+Gaza,Port Said,Undirected
+Gaza,Suez,Undirected
+Gaza,Kyrenia (Girne),Undirected
+Gaza,Famagusta,Undirected
+Gaza,Lefka,Undirected
+Gaza,Beirut,Undirected
+Rafah,Arish,Undirected
+Rafah,Tel Aviv,Undirected
+Rafah,the south and central parts of the coastal plain,Undirected
+Rafah,eastern and southern Sea of Galilee shores,Undirected
+Rafah,Golan Heights,Undirected
+Rafah,Jerusalem,Undirected
+Rafah,the south and central parts of the coastal plain,Undirected
+Rafah,East Jerusalem,Undirected
+Rafah,West Jerusalem,Undirected
+Rafah,Golan Heights,Undirected
+Rafah,Suez Canal,Undirected
+Rafah,Port Said,Undirected
+Rafah,Suez,Undirected
+Rafah,Kyrenia (Girne),Undirected
+Rafah,Famagusta,Undirected
+Rafah,Lefka,Undirected
+Rafah,Beirut,Undirected
+Arish,Tel Aviv,Undirected
+Arish,the south and central parts of the coastal plain,Undirected
+Arish,eastern and southern Sea of Galilee shores,Undirected
+Arish,Golan Heights,Undirected
+Arish,Jerusalem,Undirected
+Arish,the south and central parts of the coastal plain,Undirected
+Arish,East Jerusalem,Undirected
+Arish,West Jerusalem,Undirected
+Arish,Golan Heights,Undirected
+Arish,Suez Canal,Undirected
+Arish,Port Said,Undirected
+Arish,Suez,Undirected
+Arish,Kyrenia (Girne),Undirected
+Arish,Famagusta,Undirected
+Arish,Lefka,Undirected
+Arish,Beirut,Undirected
+Quemoy Island,Jinmen,Undirected
+Quemoy Island,Mazu,Undirected
+Tel Aviv,the south and central parts of the coastal plain,Undirected
+Tel Aviv,eastern and southern Sea of Galilee shores,Undirected
+Tel Aviv,Golan Heights,Undirected
+Tel Aviv,Jerusalem,Undirected
+Tel Aviv,the south and central parts of the coastal plain,Undirected
+Tel Aviv,East Jerusalem,Undirected
+Tel Aviv,West Jerusalem,Undirected
+Tel Aviv,Golan Heights,Undirected
+Tel Aviv,Suez Canal,Undirected
+Tel Aviv,Port Said,Undirected
+Tel Aviv,Suez,Undirected
+Tel Aviv,Kyrenia (Girne),Undirected
+Tel Aviv,Famagusta,Undirected
+Tel Aviv,Lefka,Undirected
+Tel Aviv,Beirut,Undirected
+the south and central parts of the coastal plain,eastern and southern Sea of Galilee shores,Undirected
+the south and central parts of the coastal plain,Golan Heights,Undirected
+the south and central parts of the coastal plain,Jerusalem,Undirected
+the south and central parts of the coastal plain,the south and central parts of the coastal plain,Undirected
+the south and central parts of the coastal plain,East Jerusalem,Undirected
+the south and central parts of the coastal plain,West Jerusalem,Undirected
+the south and central parts of the coastal plain,Golan Heights,Undirected
+the south and central parts of the coastal plain,Suez Canal,Undirected
+the south and central parts of the coastal plain,Port Said,Undirected
+the south and central parts of the coastal plain,Suez,Undirected
+the south and central parts of the coastal plain,Kyrenia (Girne),Undirected
+the south and central parts of the coastal plain,Famagusta,Undirected
+the south and central parts of the coastal plain,Lefka,Undirected
+the south and central parts of the coastal plain,Beirut,Undirected
+eastern and southern Sea of Galilee shores,Golan Heights,Undirected
+eastern and southern Sea of Galilee shores,Jerusalem,Undirected
+eastern and southern Sea of Galilee shores,the south and central parts of the coastal plain,Undirected
+eastern and southern Sea of Galilee shores,East Jerusalem,Undirected
+eastern and southern Sea of Galilee shores,West Jerusalem,Undirected
+eastern and southern Sea of Galilee shores,Golan Heights,Undirected
+eastern and southern Sea of Galilee shores,Suez Canal,Undirected
+eastern and southern Sea of Galilee shores,Port Said,Undirected
+eastern and southern Sea of Galilee shores,Suez,Undirected
+eastern and southern Sea of Galilee shores,Kyrenia (Girne),Undirected
+eastern and southern Sea of Galilee shores,Famagusta,Undirected
+eastern and southern Sea of Galilee shores,Lefka,Undirected
+eastern and southern Sea of Galilee shores,Beirut,Undirected
+Golan Heights,Jerusalem,Undirected
+Golan Heights,the south and central parts of the coastal plain,Undirected
+Golan Heights,East Jerusalem,Undirected
+Golan Heights,West Jerusalem,Undirected
+Golan Heights,Golan Heights,Undirected
+Golan Heights,Suez Canal,Undirected
+Golan Heights,Port Said,Undirected
+Golan Heights,Suez,Undirected
+Golan Heights,Kyrenia (Girne),Undirected
+Golan Heights,Famagusta,Undirected
+Golan Heights,Lefka,Undirected
+Golan Heights,Beirut,Undirected
+Jerusalem,the south and central parts of the coastal plain,Undirected
+Jerusalem,East Jerusalem,Undirected
+Jerusalem,West Jerusalem,Undirected
+Jerusalem,Golan Heights,Undirected
+Jerusalem,Suez Canal,Undirected
+Jerusalem,Port Said,Undirected
+Jerusalem,Suez,Undirected
+Jerusalem,Kyrenia (Girne),Undirected
+Jerusalem,Famagusta,Undirected
+Jerusalem,Lefka,Undirected
+Jerusalem,Beirut,Undirected
+the south and central parts of the coastal plain,East Jerusalem,Undirected
+the south and central parts of the coastal plain,West Jerusalem,Undirected
+the south and central parts of the coastal plain,Golan Heights,Undirected
+the south and central parts of the coastal plain,Suez Canal,Undirected
+the south and central parts of the coastal plain,Port Said,Undirected
+the south and central parts of the coastal plain,Suez,Undirected
+the south and central parts of the coastal plain,Kyrenia (Girne),Undirected
+the south and central parts of the coastal plain,Famagusta,Undirected
+the south and central parts of the coastal plain,Lefka,Undirected
+the south and central parts of the coastal plain,Beirut,Undirected
+Budapest,Sarajevo,Undirected
+Budapest,Bratunac,Undirected
+Budapest,Srebrenica,Undirected
+Budapest,Belgrade,Undirected
+Ifni,Goulimine,Undirected
+Jinmen,Mazu,Undirected
+Kongka Pass,Ladakh,Undirected
+Kongka Pass,Kashmir,Undirected
+Kongka Pass,Sialkot,Undirected
+Kongka Pass,Kargil,Undirected
+Ladakh,Kashmir,Undirected
+Ladakh,Sialkot,Undirected
+Ladakh,Kargil,Undirected
+Haiphong,Dien Bien Phu,Undirected
+Haiphong,Hu,Undirected
+Haiphong,Lng Sn,Undirected
+Haiphong,Hanoi,Undirected
+Haiphong,Xieng Khoang,Undirected
+Haiphong,Vi Xuyen,Undirected
+Dien Bien Phu,Lng Sn,Undirected
+Dien Bien Phu,Hanoi,Undirected
+Dien Bien Phu,Xieng Khoang,Undirected
+Dien Bien Phu,Vi Xuyen,Undirected
+Hu,Bolaven Plateau,Undirected
+Hu,northeastern Cambodia,Undirected
+ng Tháp Province,Tay Ninh Province,Undirected
+ng Tháp Province,Nam Bac,Undirected
+ng Tháp Province,northeastern Cambodia,Undirected
+ng Tháp Province,easten Cambodia,Undirected
+ng Tháp Province,Phnom Penh,Undirected
+Tay Ninh Province,Nam Bac,Undirected
+Tay Ninh Province,Bolaven Plateau,Undirected
+Tay Ninh Province,northeastern Cambodia,Undirected
+Tay Ninh Province,easten Cambodia,Undirected
+Tay Ninh Province,Phnom Penh,Undirected
+Lng Sn,Hanoi,Undirected
+Lng Sn,Xieng Khoang,Undirected
+Lng Sn,Vi Xuyen,Undirected
+Hanoi,Xieng Khoang,Undirected
+Hanoi,Vi Xuyen,Undirected
+Kashmir,Sialkot,Undirected
+Kashmir,Kargil,Undirected
+Sialkot,Kargil,Undirected
+East Jerusalem,West Jerusalem,Undirected
+East Jerusalem,Golan Heights,Undirected
+East Jerusalem,Suez Canal,Undirected
+East Jerusalem,Port Said,Undirected
+East Jerusalem,Suez,Undirected
+East Jerusalem,Kyrenia (Girne),Undirected
+East Jerusalem,Famagusta,Undirected
+East Jerusalem,Lefka,Undirected
+East Jerusalem,Beirut,Undirected
+West Jerusalem,Golan Heights,Undirected
+West Jerusalem,Suez Canal,Undirected
+West Jerusalem,Port Said,Undirected
+West Jerusalem,Suez,Undirected
+West Jerusalem,Kyrenia (Girne),Undirected
+West Jerusalem,Famagusta,Undirected
+West Jerusalem,Lefka,Undirected
+West Jerusalem,Beirut,Undirected
+Golan Heights,Suez Canal,Undirected
+Golan Heights,Port Said,Undirected
+Golan Heights,Suez,Undirected
+Golan Heights,Kyrenia (Girne),Undirected
+Golan Heights,Famagusta,Undirected
+Golan Heights,Lefka,Undirected
+Golan Heights,Beirut,Undirected
+Suez Canal,Port Said,Undirected
+Suez Canal,Suez,Undirected
+Suez Canal,Beirut,Undirected
+Nam Bac,Bolaven Plateau,Undirected
+Nam Bac,northeastern Cambodia,Undirected
+Nam Bac,easten Cambodia,Undirected
+Nam Bac,Phnom Penh,Undirected
+Xieng Khoang,Vi Xuyen,Undirected
+Bolaven Plateau,northeastern Cambodia,Undirected
+Bolaven Plateau,easten Cambodia,Undirected
+Bolaven Plateau,Phnom Penh,Undirected
+Port Said,Suez,Undirected
+Port Said,Kyrenia (Girne),Undirected
+Port Said,Famagusta,Undirected
+Port Said,Lefka,Undirected
+Port Said,Beirut,Undirected
+Tegucigalp,Ilopango,Undirected
+Khorramshahr,Kuwait City,Undirected
+Khorramshahr,Basrah,Undirected
+Khorramshahr,Baghdad,Undirected
+Halabja,Baghdad,Undirected
+Kuwait City,Basrah,Undirected
+Kyrenia (Girne),Famagusta,Undirected
+Kyrenia (Girne),Lefka,Undirected
+Kyrenia (Girne),Beirut,Undirected
+Famagusta,Lefka,Undirected
+Famagusta,Beirut,Undirected
+Lefka,Beirut,Undirected
+northeastern Cambodia,easten Cambodia,Undirected
+northeastern Cambodia,Phnom Penh,Undirected
+easten Cambodia,Phnom Penh,Undirected
+Longewala,Karachi,Undirected
+Sarajevo,Bratunac,Undirected
+Sarajevo,Srebrenica,Undirected
+Sarajevo,Drenica,Undirected
+Sarajevo,Belgrade,Undirected
+Bratunac,Srebrenica,Undirected
+Bratunac,Drenica,Undirected
+Bratunac,Belgrade,Undirected
+Srebrenica,Drenica,Undirected
+Srebrenica,Belgrade,Undirected
+Sumqayit,Nagorno-Karabakh,Undirected
+Drenica,Belgrade,Undirected
+Kandahar,Kabul,Undirected
+Kabul,Baghlan,Undirected
+Basrah,Baghdad,Undirected
+Ogaden,Harar,Undirected
+Ogaden,Gode,Undirected
+Harar,Gode,Undirected
+Kagera,Lukaya,Undirected
+Kagera,Masaka,Undirected
+Lukaya,Masaka,Undirected
+Bardaï,Zouar,Undirected
+Yalu River,Inchon,Undirected
+Yalu River,Wonsan,Undirected
+Yalu River,Riwon,Undirected
+Yalu River,Seoul,Undirected
+Yalu River,Pyongyang,Undirected
+Yalu River,Sunchon,Undirected
+Yalu River,Sukchon,Undirected
+Yalu River,central Korean mountain range,Undirected
+Yalu River,Hill 924,Undirected
+Yalu River,Imjin River,Undirected
+Yalu River,Kaesong,Undirected
+Yalu River,Chorwon,Undirected
+Yalu River,Hill 266,Undirected
+Yalu River,Osan,Undirected
+Inchon,Wonsan,Undirected
+Inchon,Riwon,Undirected
+Inchon,Seoul,Undirected
+Inchon,Pyongyang,Undirected
+Inchon,Sunchon,Undirected
+Inchon,Sukchon,Undirected
+Inchon,central Korean mountain range,Undirected
+Inchon,Hill 924,Undirected
+Inchon,Imjin River,Undirected
+Inchon,Kaesong,Undirected
+Inchon,Chorwon,Undirected
+Inchon,Hill 266,Undirected
+Inchon,Osan,Undirected
+Wonsan,Riwon,Undirected
+Wonsan,Seoul,Undirected
+Wonsan,Pyongyang,Undirected
+Wonsan,Sunchon,Undirected
+Wonsan,Sukchon,Undirected
+Wonsan,central Korean mountain range,Undirected
+Wonsan,Hill 924,Undirected
+Wonsan,Imjin River,Undirected
+Wonsan,Kaesong,Undirected
+Wonsan,Chorwon,Undirected
+Wonsan,Hill 266,Undirected
+Wonsan,Osan,Undirected
+Riwon,Seoul,Undirected
+Riwon,Pyongyang,Undirected
+Riwon,Sunchon,Undirected
+Riwon,Sukchon,Undirected
+Riwon,central Korean mountain range,Undirected
+Riwon,Hill 924,Undirected
+Riwon,Imjin River,Undirected
+Riwon,Kaesong,Undirected
+Riwon,Chorwon,Undirected
+Riwon,Hill 266,Undirected
+Riwon,Osan,Undirected
+Seoul,Pyongyang,Undirected
+Seoul,Sunchon,Undirected
+Seoul,Sukchon,Undirected
+Seoul,central Korean mountain range,Undirected
+Seoul,Hill 924,Undirected
+Seoul,Imjin River,Undirected
+Seoul,Kaesong,Undirected
+Seoul,Chorwon,Undirected
+Seoul,Hill 266,Undirected
+Seoul,Osan,Undirected
+Pyongyang,Sunchon,Undirected
+Pyongyang,Sukchon,Undirected
+Pyongyang,central Korean mountain range,Undirected
+Pyongyang,Hill 924,Undirected
+Pyongyang,Imjin River,Undirected
+Pyongyang,Kaesong,Undirected
+Pyongyang,Chorwon,Undirected
+Pyongyang,Hill 266,Undirected
+Pyongyang,Osan,Undirected
+Sunchon,Sukchon,Undirected
+Sunchon,central Korean mountain range,Undirected
+Sunchon,Hill 924,Undirected
+Sunchon,Imjin River,Undirected
+Sunchon,Kaesong,Undirected
+Sunchon,Chorwon,Undirected
+Sunchon,Hill 266,Undirected
+Sunchon,Osan,Undirected
+Sukchon,central Korean mountain range,Undirected
+Sukchon,Hill 924,Undirected
+Sukchon,Imjin River,Undirected
+Sukchon,Kaesong,Undirected
+Sukchon,Chorwon,Undirected
+Sukchon,Hill 266,Undirected
+Sukchon,Osan,Undirected
+central Korean mountain range,Hill 924,Undirected
+central Korean mountain range,Imjin River,Undirected
+central Korean mountain range,Kaesong,Undirected
+central Korean mountain range,Chorwon,Undirected
+central Korean mountain range,Hill 266,Undirected
+central Korean mountain range,Osan,Undirected
+Hill 924,Imjin River,Undirected
+Hill 924,Kaesong,Undirected
+Hill 924,Chorwon,Undirected
+Hill 924,Hill 266,Undirected
+Hill 924,Osan,Undirected
+Imjin River,Kaesong,Undirected
+Imjin River,Chorwon,Undirected
+Imjin River,Hill 266,Undirected
+Imjin River,Osan,Undirected
+Kaesong,Chorwon,Undirected
+Kaesong,Hill 266,Undirected
+Kaesong,Osan,Undirected
+Chorwon,Hill 266,Undirected
+Chorwon,Osan,Undirected
+Hill 266,Osan,Undirected

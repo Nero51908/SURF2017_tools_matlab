@@ -8,3 +8,4 @@ net_gen.m takes structure array with explicit (not nested strucutre) fields and 
     there should be a distance field in the input structure so that the function will generate edges for network
     according to input distance threshold which determines whether two places are "connected" or not.
 For now, all these scripts uses table object which must be avoided in the future.
+[Intro.pdf](https://price51908.github.io/SURF2017_tools_matlab/surf2017-daily-record.pdf)
